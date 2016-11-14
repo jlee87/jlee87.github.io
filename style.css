@@ -1,0 +1,28 @@
+body {
+  background-color: #eee;
+}
+
+.container {
+  background-color: #fff;
+  box-shadow: 1px 1px 1px #999;
+  margin-top: 65px;
+  margin-bottom: 100px;
+  padding: 65px;
+  max-width: 1000px;
+
+  border-top: 18px solid #779ECB;
+}
+
+p {
+  font-size: 1.8em;
+  color: #555;
+}
+
+.page-header {
+  margin-top: 1.8em;
+  color: #779ECB;
+}
+
+.rowhead {
+  color: #aaa;
+}
