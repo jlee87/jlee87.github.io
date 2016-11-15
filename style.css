@@ -26,3 +26,13 @@ p {
 .rowhead {
   color: #aaa;
 }
+
+.tag {
+
+  color: #779ECB;
+}
+
+.tag:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
